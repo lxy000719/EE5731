@@ -1,2 +1,2 @@
 # NUS EE5731
-EE5731 assignments
+NUS EE5731 Visual Computing assignments
